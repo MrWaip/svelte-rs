@@ -13,9 +13,11 @@ Drop-in replacement for `svelte/compiler` (pinned to **svelte@5.56.4**) — same
 
 [Playground](https://mrwaip.github.io/svelte-rs/) · [Issues](https://github.com/MrWaip/svelte-rs/issues)
 
-> ⚠️ **WIP / canary.** Built by a human with heavy AI assistance. Expect bugs, missing edge cases, and breaking changes. Not production-ready — please report what breaks.
-
 </div>
+
+> [!IMPORTANT]
+> **svelte-rs is on pause.** I'm not actively working on it right now and won't be publishing new versions to npm.
+> Here's [the story](https://mrwaip.github.io/svelte-rs/blog/svelte-rs-story.html) of how it came to be. If you think it's worth bringing back, tell me why in [#321](https://github.com/MrWaip/svelte-rs/issues/321).
 
 ---
 
